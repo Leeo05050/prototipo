@@ -1,0 +1,42 @@
+.container {
+  padding: 2rem;
+  // width: 100%;
+  // height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2.2rem;
+}
+
+.multiple {
+  display: flex;
+  gap: 2rem;
+}
+
+.floor {
+  display: flex;
+  justify-content: space-between;
+}
+
+.aviso {
+  color: red;
+  font-size: 0.85rem;
+}
+
+.vai {
+  font-size: 1.1rem;
+  padding: 0.2rem 0.8rem 0.2rem 0.8rem;
+  background-color: #3a52a9;
+  border: none;
+  color: white;
+  border-radius: 10px;
+
+  &:hover {
+    cursor: pointer;
+    background-color: #283976;
+  }
+}
+
+.form {
+  width: 100%;
+  height: 100%;
+}

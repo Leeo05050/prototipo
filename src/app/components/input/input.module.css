@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    width: -moz-available;
+}
+
+.inin {
+    height: 1.5rem;
+    border-radius: 10px;
+    border: unset;
+    height: 2rem;
+    width: 100%;
+}
+
+.label {
+    padding-bottom: 0.5rem;
+}
+
+.req {
+    color: red
+}

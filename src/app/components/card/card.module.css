@@ -1,0 +1,21 @@
+.card {
+    align-self: center;
+    justify-self: center;
+    background-color: #1E1E1E;
+    width: 59.438rem;
+    /* height: 38.75rem; */
+    border-radius: 30px;
+    display: flex;
+    color: white;
+    box-shadow: 1px 1px 9px 1px black;
+}
+
+.cardBg    {
+    background: linear-gradient(#1B19A0, #8716AE);
+    /* width: 60.188rem;
+    height: 39.5rem; */
+    padding: 0.4rem;
+    border-radius: 30px;
+    display: grid;
+    /* box-shadow: 1px 1px 9px 1px lightblue; */
+}

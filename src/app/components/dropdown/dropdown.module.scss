@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    width: -moz-available;
+}
+
+.inin {
+    height: 1.5rem;
+    border-radius: 10px;
+    border: unset;
+    height: 2.1rem;
+    width: 100%;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.label {
+    padding-bottom: 0.5rem;
+}
+
+.req {
+    color: red
+}
